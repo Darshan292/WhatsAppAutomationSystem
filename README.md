@@ -25,7 +25,7 @@ Before getting started, ensure you have the following prerequisites installed on
 1. Run the system.
 2. Scan the QR code using your WhatsApp account to authenticate.
 3. In the WhatsApp group, users can perform the following actions:
-- Translate to text from any language to Kannada, English or Hindi:
+- Translate text from any language to Kannada, English or Hindi:
   - **Translate to kannada "text"** 
   - **Translate to english "text"**
   - **Translate to hindi "text"**
