@@ -6,7 +6,6 @@ async function translate(to,text){
   const targettextarea = Process.env.TRANSLATETEXTAREA;
   let targetDataArray=[];
   let browser
-  console.log(websiteUrl)
   try {
     browser = await puppeteer.launch();
     const page = await browser.newPage();
