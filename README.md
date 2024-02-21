@@ -1,7 +1,7 @@
 
 # WhatsApp Automation System
 
-Welcome to the WhatsApp Automation System! This is a Simple project that leverages whatsappwebjs and puppeteer to automate interactions in a WhatsApp group.The system allows users to perform three main functions: language translation, public speaking script, and content search.
+Welcome to the WhatsApp Automation System! This is a Simple project that leverages whatsappwebjs and puppeteer to automate interactions in a WhatsApp group.The system allows users to perform three main functions: language translation, generate public speaking script, and content search.
 This project holds significant value for the "educational community"
 
 ## Features
