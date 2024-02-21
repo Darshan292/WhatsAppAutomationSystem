@@ -13,7 +13,6 @@ async function search(text){
         const page = await browser.newPage();
         await page.goto(websiteUrl, { waitUntil: 'domcontentloaded' });
         await page.waitForSelector(targetarea,{visible:true});
-        console.log("Done")
         await page.type(targetarea, text);
         await page.click(button);
         await page.waitForSelector(targetextract);
