@@ -6,7 +6,7 @@ This project holds significant value for the "educational community"
 
 ## Features
 - Automated Responses: Perform actions in response to user queries automatically.
-- Translation: Translate text to and from different languages.
+- Translation: Translate text from different languages to relevant language.
 - Text-to-Speech: Generate speech in multiple languages and word counts.
 - Contextual Search: Retrieve search results or context-specific information using text generative AI.
 
