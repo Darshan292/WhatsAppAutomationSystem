@@ -17,7 +17,7 @@ async function speech(lang, topic, word_num){
         await page.waitForSelector(langselect);
         await page.select(langselect,lang)
         await page.click(button);
-        await page.waitForTimeout(6000);
+        await page.waitForTimeout(2000);
         await page.waitForSelector(targetdiv, { visible: true});
         speechcontent = await page.$eval(targetdiv, (element) => element.innerHTML);
     }catch(error){
